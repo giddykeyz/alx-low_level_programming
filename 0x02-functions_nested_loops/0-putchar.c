@@ -2,17 +2,13 @@
  * File: 0-putchar.c
  * Auth: Bardi gideon
  *
- */
-
-	#include "putchar.h"
-	#include<stdio.h>
-	#include<main.h>
-
-/**
- * main - Prints "putchar" followed by a new line.
+/** * main - Prints "putchar" followed by a new line.
  *
  * Return: Always 0.
  */
+	#include"putchar.h"
+        #include<stdio.h>
+        #include<main.h>
 
 	int main(void)
 {

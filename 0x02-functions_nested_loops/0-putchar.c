@@ -4,7 +4,9 @@
  *
  */
 
-#include "putchar.h"
+	#include "putchar.h"
+	#include<stdio.h>
+	#include<lib.h>
 
 /**
  * main - Prints "putchar" followed by a new line.
@@ -12,8 +14,7 @@
  * Return: Always 0.
  */
 
-#include<stdio.h>
-int main(void)
+	int main(void)
 {
 	_putchar('_');
 	_putchar('p');

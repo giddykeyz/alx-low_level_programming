@@ -4,7 +4,7 @@
  * @nld: number's last digit result
  * Return: value of the last digit
  */
-int print_last_digit(int pld)
+int print_last_digit(int nld)
 {
 	int pld;
 

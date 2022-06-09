@@ -1,19 +1,31 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - prints prime factors of 612852475143
- *
- * Return: Always 0 (Success)
+ * print_triangle - a function that prints a triangle
+ * @size: size of the triangle
+ * Return: triangle of '#'s
  */
-int main(void)
+void print_triangle(int size)
 {
-	unsigned long int i, n = 612852475143;
+	int sp, ro, tr;
 
-	for (i = 3; i < 782849; i = i + 2)
+	if (size <= 0)
 	{
-		while ((n % i == 0) && (n != i))
-			n = n / i;
+		_putchar('\n');
 	}
-	printf("%lu\n", n);
-	return (0);
+	else
+	{
+		for (ro = 0; ro <= (size - 1); ro++)
+		{
+			for (sp = 0; sp < (size - 1) - ro; sp++)
+			{
+				_putchar(' ');
+			}
+			for (tr = 0; tr <= ro; tr++)
+			{
+				_putchar('#');
+			}
+			_putchar('\n');
+		}
+	}
 }

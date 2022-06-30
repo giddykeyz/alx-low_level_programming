@@ -103,10 +103,10 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 
 	mult_len = find_len(mult) - 1;
 	mult += mult_len;
-
+OAOAOA
 	while (*prod)
-	{
-		*prod = 'x';
+OAOAOA	{
+OAOAOA		*prod = 'x';
 		prod++;
 	}
 
@@ -160,17 +160,17 @@ void add_nums(char *final_prod, char *next_prod, int next_len)
 		tens = num / 10;
 
 		next_prod--;
-		next_len--;
+OAOAOA		next_len--;
 	}
-
-	for (; next_len >= 0 && *next_prod != 'x'; next_len--)
-	{
-		num = (*next_prod - '0');
-		num += tens;
-		*final_prod = (num % 10) + '0';
+OAOAOA
+OAOAOA	for (; next_len >= 0 && *next_prod != 'x'; next_len--)
+OAOAOA	{
+OAOAOA		num = (*next_prod - '0');
+OAOAOA		num += tens;
+OAOAOA		*final_prod = (num % 10) + '0';
 		tens = num / 10;
 
-		final_prod--;
+OAOAOA		final_prod--;
 		next_prod--;
 	}
 
@@ -184,17 +184,17 @@ void add_nums(char *final_prod, char *next_prod, int next_len)
  * @argc: An array of pointers to the arguments.
  *
  * Description: If the number of arguments is incorrect or one number
- *              contains non-digits, the function exits with a status of 98.
- * Return: Always 0.
+OAOAOA *              contains non-digits, the function exits with a status of 98.
+OAOAOA * Return: Always 0.
  */
-int main(int argc, char *argv[])
+OAOAOAint main(int argc, char *argv[])
 {
-	char *final_prod, *next_prod;
-	int size, index, digit, zeroes = 0;
+OAOAOA	char *final_prod, *next_prod;
+OAOAOA	int size, index, digit, zeroes = 0;
 
-	if (argc != 3)
+OAOAOA	if (argc != 3)
 	{
-		printf("Error\n");
+OAOAOA		printf("Error\n");
 		exit(98);
 	}
 
@@ -202,15 +202,15 @@ int main(int argc, char *argv[])
 		argv[1] = iterate_zeroes(argv[1]);
 	if (*(argv[2]) == '0')
 		argv[2] = iterate_zeroes(argv[2]);
-	if (*(argv[1]) == '\0' || *(argv[2]) == '\0')
+OAOAOAOAOAOA	if (*(argv[1]) == '\0' || *(argv[2]) == '\0')
 	{
-		printf("0\n");
-		return (0);
-	}
+OAOAOA		printf("0\n");
+OAOAOA		return (0);
+OAOAOA	}
 
-	size = find_len(argv[1]) + find_len(argv[2]);
-	final_prod = create_xarray(size + 1);
-	next_prod = create_xarray(size + 1);
+OAOAOA	size = find_len(argv[1]) + find_len(argv[2]);
+OAOAOA	final_prod = create_xarray(size + 1);
+OAOAOA	next_prod = create_xarray(size + 1);
 
 	for (index = find_len(argv[2]) - 1; index >= 0; index--)
 	{
@@ -222,11 +222,11 @@ int main(int argc, char *argv[])
 	{
 		if (final_prod[index] != 'x')
 			putchar(final_prod[index]);
-	}
-	putchar('\n');
-
+OAOAOAOAOAOA	}
+OAOAOA	putchar('\n');
+OAOAOA
 	free(next_prod);
-	free(final_prod);
+OAOAOA	free(final_prod);
 
-	return (0);
+OAOAOA	return (0);
 }

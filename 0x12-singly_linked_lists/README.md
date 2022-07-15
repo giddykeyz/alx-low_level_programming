@@ -36,4 +36,4 @@ typedef list_t struct list_s 0-print_list.c size_t print_list(const list_t *h); 
     100-first.c: C function that prints You're beat! and yet, you must allow,\nI bore my house upon my back!\n before the main function is executed.
 
 6. Real programmers can write assembly code in any language
-    101-hello_holberton.asm: 64-but assembly program that prints Hello, Holberton followed by a new line using only the printf function wito
+    101-hello_holberton.asm: 64-but assembly program that prints Hello, Holberton followed by a new line using only the printf function with

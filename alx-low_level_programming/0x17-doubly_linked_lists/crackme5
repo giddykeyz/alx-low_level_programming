@@ -1,0 +1,2 @@
+gcc -Wall -pedantic -Werror -Wextra 103-keygen.c -o keygen5
+

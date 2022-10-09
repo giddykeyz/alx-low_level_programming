@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665201935,,"wq"
+|2,0,1665290312,,"wq"
 :q!
 |2,0,1662772241,,"q!"
 :q
@@ -64,230 +64,633 @@ $
 |3,0,36,0,1,0,1662772115,"4"
 
 # File marks:
-'0  141  62  ~/sorting_algorithms/README.md
-|4,48,141,62,1665201935,"~/sorting_algorithms/README.md"
-'1  20  15  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py
-|4,49,20,15,1664526279,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py"
-'2  134  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,50,134,0,1664525875,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
-'3  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,51,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
-'4  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,52,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
-'5  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,53,1,32,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
-'6  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,54,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
-'7  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,55,1,91,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
-'8  1  59  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,56,1,59,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
-'9  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,57,1,91,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
+'0  1  0  ~/sorting_algorithms/.gitignore
+|4,48,1,0,1665290312,"~/sorting_algorithms/.gitignore"
+'1  3  9  ~/sorting_algorithms/1000-main.c
+|4,49,3,9,1665289829,"~/sorting_algorithms/1000-main.c"
+'2  1  0  ~/sorting_algorithms/deck.h
+|4,50,1,0,1665289793,"~/sorting_algorithms/deck.h"
+'3  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,51,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+'4  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,52,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+'5  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,53,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+'6  53  0  ~/sorting_algorithms/1-insertion_sort_list.c
+|4,54,53,0,1665288112,"~/sorting_algorithms/1-insertion_sort_list.c"
+'7  1  0  ~/sorting_algorithms/107-main.clear
+|4,55,1,0,1665287866,"~/sorting_algorithms/107-main.clear"
+'8  3  9  ~/sorting_algorithms/107-main.c
+|4,56,3,9,1665287669,"~/sorting_algorithms/107-main.c"
+'9  3  9  ~/sorting_algorithms/106-main.c
+|4,57,3,9,1665287648,"~/sorting_algorithms/106-main.c"
 
 # Jumplist (newest first):
--'  141  62  ~/sorting_algorithms/README.md
-|4,39,141,62,1665201935,"~/sorting_algorithms/README.md"
--'  1  0  ~/sorting_algorithms/README.md
-|4,39,1,0,1665201787,"~/sorting_algorithms/README.md"
--'  20  15  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py
-|4,39,20,15,1664526279,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py"
--'  20  15  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py
-|4,39,20,15,1664526279,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py"
--'  1  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py
-|4,39,1,0,1664526265,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py"
--'  1  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py
-|4,39,1,0,1664526265,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/0-main.py"
--'  134  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,134,0,1664525875,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  134  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,134,0,1664525875,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  134  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,134,0,1664525875,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  134  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,134,0,1664525875,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,1,0,1664525828,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,1,0,1664525828,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,1,0,1664525828,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md
-|4,39,1,0,1664525828,"~/alx-higher_level_programming/0x0C-python-almost_a_circle/README.md"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  9  26  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,9,26,1664233403,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  32  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,32,1664233365,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  46  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,46,0,1664232876,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  1  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt
-|4,39,1,0,1664232777,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.txt"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  3  0  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,3,0,1664232615,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  1  91  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,1,91,1664232579,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  4  27  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,4,27,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  4  27  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,4,27,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  4  27  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,4,27,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  4  27  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,4,27,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  4  27  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,4,27,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
--'  4  27  ~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py
-|4,39,4,27,1664232502,"~/alx-higher_level_programming/0x0A-python-inheritance/1-my_list.py"
+-'  1  0  ~/sorting_algorithms/.gitignore
+|4,39,1,0,1665290312,"~/sorting_algorithms/.gitignore"
+-'  3  9  ~/sorting_algorithms/1000-main.c
+|4,39,3,9,1665289829,"~/sorting_algorithms/1000-main.c"
+-'  3  9  ~/sorting_algorithms/1000-main.c
+|4,39,3,9,1665289829,"~/sorting_algorithms/1000-main.c"
+-'  1  0  ~/sorting_algorithms/1000-main.c
+|4,39,1,0,1665289810,"~/sorting_algorithms/1000-main.c"
+-'  1  0  ~/sorting_algorithms/1000-main.c
+|4,39,1,0,1665289810,"~/sorting_algorithms/1000-main.c"
+-'  1  0  ~/sorting_algorithms/deck.h
+|4,39,1,0,1665289793,"~/sorting_algorithms/deck.h"
+-'  1  0  ~/sorting_algorithms/deck.h
+|4,39,1,0,1665289793,"~/sorting_algorithms/deck.h"
+-'  1  0  ~/sorting_algorithms/deck.h
+|4,39,1,0,1665289793,"~/sorting_algorithms/deck.h"
+-'  1  0  ~/sorting_algorithms/deck.h
+|4,39,1,0,1665289793,"~/sorting_algorithms/deck.h"
+-'  50  18  ~/sorting_algorithms/deck.h
+|4,39,50,18,1665289775,"~/sorting_algorithms/deck.h"
+-'  50  18  ~/sorting_algorithms/deck.h
+|4,39,50,18,1665289775,"~/sorting_algorithms/deck.h"
+-'  50  18  ~/sorting_algorithms/deck.h
+|4,39,50,18,1665289775,"~/sorting_algorithms/deck.h"
+-'  50  18  ~/sorting_algorithms/deck.h
+|4,39,50,18,1665289775,"~/sorting_algorithms/deck.h"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  100  0  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,100,0,1665289628,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  1  35  ~/sorting_algorithms/107-quick_sort_hoare.c
+|4,39,1,35,1665289501,"~/sorting_algorithms/107-quick_sort_hoare.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  3  8  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,3,8,1665289053,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  1  2698  ~/sorting_algorithms/101-cocktail_sort_list.c
+|4,39,1,2698,1665288871,"~/sorting_algorithms/101-cocktail_sort_list.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  4  1  ~/sorting_algorithms/2-selection_sort.c
+|4,39,4,1,1665288351,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
+-'  1  831  ~/sorting_algorithms/2-selection_sort.c
+|4,39,1,831,1665288241,"~/sorting_algorithms/2-selection_sort.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/sorting_algorithms/.gitignore
+	*	1665290309	0
+	"	1	0
+
+> ~/sorting_algorithms/1000-main.c
+	*	1665289826	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/deck.h
+	*	1665289789	0
+	"	1	0
+	^	50	19
+	.	50	18
+	+	1	1111
+	+	50	18
+
+> ~/sorting_algorithms/107-quick_sort_hoare.c
+	*	1665289626	0
+	"	100	0
+	^	100	1
+	.	100	0
+	+	1	2029
+	+	1	36
+	+	100	0
+
+> ~/sorting_algorithms/101-cocktail_sort_list.c
+	*	1665289049	0
+	"	3	8
+	^	3	9
+	.	3	9
+	+	1	2698
+	+	103	0
+	+	3	9
+
+> ~/sorting_algorithms/2-selection_sort.c
+	*	1665288346	0
+	"	4	1
+	^	3	9
+	.	3	9
+	+	1	831
+	+	1	2
+	+	50	0
+	+	3	9
+
+> ~/sorting_algorithms/1-insertion_sort_list.c
+	*	1665288108	0
+	"	53	0
+	^	53	1
+	.	53	0
+	+	1	2007
+	+	53	0
+
+> ~/sorting_algorithms/107-main.clear
+	*	1665287863	0
+	"	1	0
+
+> ~/sorting_algorithms/107-main.c
+	*	1665287667	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/106-main.c
+	*	1665287646	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/105-main.c
+	*	1665287612	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/104-main.c
+	*	1665287582	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/103-main.c
+	*	1665287550	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/102-main.c
+	*	1665287524	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/101-main.c
+	*	1665287493	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/100-main.c
+	*	1665287467	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/3-main.c
+	*	1665287411	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/2-main.c
+	*	1665287363	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/1-main.c
+	*	1665287263	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/0-main.c
+	*	1665287200	0
+	"	3	9
+	^	3	10
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/sort.h
+	*	1665287016	0
+	"	54	18
+	^	54	19
+	.	54	18
+	+	1	1531
+	+	54	18
+
+> ~/sorting_algorithms/0-bubble_sort.c
+	*	1665286860	0
+	"	3	8
+	^	3	9
+	.	3	9
+	+	1	1637
+	+	1	36
+	+	51	0
+	+	3	9
+
+> ~/sorting_algorithms/tests/107-main.c
+	*	1665286529	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/106-main.c
+	*	1665286489	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/105-main.c
+	*	1665286452	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/104-main.c
+	*	1665286407	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/103-main.c
+	*	1665286370	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/102-main.c
+	*	1665286335	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/101-main.c
+	*	1665286298	0
+	"	56	0
+	^	56	1
+	.	56	0
+	+	56	0
+
+> ~/sorting_algorithms/tests/1000-main.c
+	*	1665286246	0
+	"	60	0
+	^	60	1
+	.	60	0
+	+	60	0
+
+> ~/sorting_algorithms/tests/100-main.c
+	*	1665286200	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/3-main.c
+	*	1665286155	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/2-main.c
+	*	1665286121	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/tests/1-main.c
+	*	1665286064	0
+	"	56	0
+	^	56	1
+	.	56	0
+	+	56	0
+
+> ~/sorting_algorithms/tests/0-main.c
+	*	1665286026	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/sorting_algorithms/107-O
+	*	1665285900	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/sorting_algorithms/106-O
+	*	1665285636	0
+	"	3	10
+	^	3	11
+	.	3	10
+	+	3	10
+
+> ~/sorting_algorithms/105-O
+	*	1665285590	0
+	"	3	4
+	^	3	5
+	.	3	4
+	+	3	4
+
+> ~/sorting_algorithms/104-O
+	*	1665285507	0
+	"	3	9
+	^	3	10
+	.	3	9
+	+	3	9
+
+> ~/sorting_algorithms/103-O
+	*	1665285453	0
+	"	3	9
+	^	3	10
+	.	3	9
+	+	3	9
+
+> ~/sorting_algorithms/102-O
+	*	1665285407	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/sorting_algorithms/101-O
+	*	1665285356	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/sorting_algorithms/106-bitonic_sort.c
+	*	1665285199	0
+	"	96	0
+	^	96	1
+	.	96	0
+	+	96	0
+
+> ~/sorting_algorithms/105-radix_sort.c
+	*	1665285135	0
+	"	89	0
+	^	89	1
+	.	89	0
+	+	89	0
+
+> ~/sorting_algorithms/104-heap_sort.c
+	*	1665285078	0
+	"	79	0
+	^	79	1
+	.	79	0
+	+	79	0
+
+> ~/sorting_algorithms/103-merge_sort.c
+	*	1665285037	0
+	"	87	0
+	^	87	1
+	.	87	0
+	+	87	0
+
+> ~/sorting_algorithms/102-counting_sort.c
+	*	1665284992	0
+	"	1	1
+	^	73	1
+	.	73	0
+	+	73	0
+
+> ~/sorting_algorithms/1000-sort_deck.c
+	*	1665284808	0
+	"	146	0
+	^	146	1
+	.	146	0
+	+	146	0
+
+> ~/sorting_algorithms/100-shell_sort.c
+	*	1665284672	0
+	"	53	0
+	^	53	1
+	.	53	0
+	+	53	0
+
+> ~/sorting_algorithms/print_array.c
+	*	1665284574	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/sorting_algorithms/print_list.c
+	*	1665284520	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/sorting_algorithms/3-O
+	*	1665284428	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/sorting_algorithms/3-quick_sort.c
+	*	1665284381	0
+	"	100	0
+	^	100	1
+	.	100	0
+	+	100	0
+
+> ~/sorting_algorithms/1-O
+	*	1665284308	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	6
+	+	2	0
+	+	3	0
+
+> ~/sorting_algorithms/0-O
+	*	1665284279	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	6
+	+	2	0
+	+	3	0
+
+> ~/sorting_algorithms/2-O
+	*	1665284201	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
 
 > ~/sorting_algorithms/README.md
 	*	1665201927	0
@@ -606,403 +1009,3 @@ $
 	^	9	52
 	.	9	51
 	+	9	51
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/101-locked_class.py
-	*	1663723246	0
-	"	10	29
-	^	10	30
-	.	10	29
-	+	10	29
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/100-main.py
-	*	1663723099	0
-	"	5	24
-	^	5	25
-	.	5	24
-	+	5	24
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/100-magic_string.py
-	*	1663723043	0
-	"	4	70
-	^	4	71
-	.	4	70
-	+	4	70
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/28-answer.txt
-	*	1663722908	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/27-answer.txt
-	*	1663722871	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/26-answer.txt
-	*	1663722825	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/25-answer.txt
-	*	1663722745	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/24-answer.txt
-	*	1663722690	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/23-answer.txt
-	*	1663722621	0
-	"	1	2
-	^	1	3
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/22-answer.txt
-	*	1663722530	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/21-answer.txt
-	*	1663722454	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/20-answer.txt
-	*	1663722372	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/19-main.py
-	*	1663722246	0
-	"	13	25
-	^	13	26
-	.	13	25
-	+	13	25
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/19-copy_list.py
-	*	1663722162	0
-	"	3	25
-	^	3	26
-	.	3	25
-	+	3	25
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/18-answer.txt
-	*	1663722059	0
-	"	1	8
-	^	1	9
-	.	1	8
-	+	1	8
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/18-answer.txt
-	*	1663722002	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/17-answer.txt
-	*	1663721532	0
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/16-answer.txt
-	*	1663721428	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/15-answer.txt
-	*	1663721333	0
-	"	1	8
-	^	1	9
-	.	1	8
-	+	1	8
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/14-answer.txt
-	*	1663721265	0
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/13-answer.txt
-	*	1663721191	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/12-answer.txt
-	*	1663721104	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/11-answer.txt
-	*	1663720991	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/10-answer.txt
-	*	1663720773	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/9-answer.txt
-	*	1663720692	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/8-answer.txt
-	*	1663720620	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/7-answer.txt
-	*	1663720545	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/6-answer.txt
-	*	1663720446	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/5-answer.txt
-	*	1663720347	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/4-answer.txt
-	*	1663720251	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/3-answer.txt
-	*	1663720144	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/2-answer.txt
-	*	1663720016	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/1-answer.txt
-	*	1663719858	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/0-answer.txt
-	*	1663719754	0
-	"	1	3
-	^	1	4
-	.	2	0
-	+	1	4
-	+	2	0
-
-> ~/alx-higher_level_programming/0x09-python-everything_is_object/README.md
-	*	1663719289	0
-	"	192	9
-	^	192	10
-	.	192	9
-	+	192	9
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/101-nqueens.py
-	*	1663630167	0
-	"	2	15
-	^	2	16
-	.	2	15
-	+	143	17
-	+	2	15
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/9-rectangle.py
-	*	1663629904	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	115	32
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/8-rectangle.py
-	*	1663629802	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	106	32
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/7-rectangle.py
-	*	1663629549	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	88	32
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/6-rectangle.py
-	*	1663629436	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	86	32
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/5-rectangle.py
-	*	1663629210	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	78	32
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/4-rectangle.py
-	*	1663629006	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	74	20
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/3-rectangle.py
-	*	1663628753	0
-	"	69	29
-	^	69	30
-	.	69	29
-	+	69	29
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/2-rectangle.py
-	*	1663628611	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	53	56
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/1-rectangle.py
-	*	1663628369	0
-	"	2	15
-	^	2	16
-	.	3	0
-	+	43	28
-	+	3	0
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/0-rectangle.py
-	*	1663627893	0
-	"	3	13
-	^	3	14
-	.	3	13
-	+	9	7
-	+	3	13
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/9-main.py
-	*	1663627709	0
-	"	6	15
-	^	6	16
-	.	6	15
-	+	6	15
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/8-main.py
-	*	1663627644	0
-	"	17	4
-	^	18	57
-	.	18	56
-	+	18	56
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/7-main.py
-	*	1663627601	0
-	"	26	10
-	^	26	11
-	.	26	10
-	+	26	10
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/6-main.py
-	*	1663627554	0
-	"	10	73
-	^	10	74
-	.	10	73
-	+	10	73
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/5-main.py
-	*	1663627516	0
-	"	12	51
-	^	12	52
-	.	12	51
-	+	12	51
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/4-main.py
-	*	1663627472	0
-	"	26	47
-	^	26	48
-	.	26	47
-	+	26	47
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/3-main.py
-	*	1663627437	0
-	"	15	24
-	^	15	25
-	.	15	24
-	+	15	24
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/2-main.py
-	*	1663627400	0
-	"	11	86
-	^	11	87
-	.	11	86
-	+	11	86
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/1-main.py
-	*	1663627340	0
-	"	9	27
-	^	9	28
-	.	9	27
-	+	9	27
-
-> ~/alx-higher_level_programming/0x08-python-more_classes/tests/0-main.py
-	*	1663627306	0
-	"	6	27
-	^	6	28
-	.	6	27
-	+	6	27
